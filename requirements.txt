@@ -5,7 +5,4 @@ Pillow
 scipy
 pandas
 altair
-pystan
-fbprophet
-plotly
-ipywidgets
+
