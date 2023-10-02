@@ -5,4 +5,5 @@ Pillow
 scipy
 pandas
 altair
-
+yfinance
+fbprophet
